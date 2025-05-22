@@ -1,0 +1,23 @@
+{
+  "customers": [
+    {
+      "id": 0,
+      "name": "Saravanan Kuppusamy",
+      "email": "saravanan@sara.biz",
+      "password": "fox$2344"
+    },
+    {
+      "id": 1,      
+      "name": "Lisa Cueva",
+      "email": "lisa@lisa.org",
+      "password": "lisa$98765"
+    },
+    {
+      "id": 2,
+      "name": "Lynn Gerle",
+      "email": "lynn@lynn.org",
+      "password": "lynn$word"
+    }
+  ]
+
+}
